@@ -141,7 +141,9 @@ Project link:
 ## 👨‍💻 Author
 
 **Nitin**
+
 **Gaurav Singh**  
+
 **Karan Chaurasiya**  
 
 ---
